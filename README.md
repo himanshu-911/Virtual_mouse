@@ -23,5 +23,5 @@
 - Calibratihg indices to move cursor on whole screen.
 - Move the cursor along with the movement of index finger using **pyautogui.moveTo()**.
 - If absolute distance between tip of index and middle finger is less than 50 pixels then it is considered as click.
-- Use pyautogui.click() for click operation and after a click. 
+- Use **pyautogui.click()** for click operation and after a click. 
 - At the end, display the frames using the **cv2.imshow()** method.  
