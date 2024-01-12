@@ -1,9 +1,9 @@
 
 # Virtual mouse
 
-#### AI powered mouse which moves along with the movement of index finger and also clicks when index and middle fingers are brought together.
+## AI powered mouse which moves along with the movement of index finger and also clicks when index and middle fingers are brought together.
 
-## Here are  the libraries and modules used in the video:
+### Here are  the libraries and modules used in the video:
 
 - **OpenCV**: an open-source library for computer vision
 - **MediaPipe**: an open-source framework for building multimedia processing pipelines
