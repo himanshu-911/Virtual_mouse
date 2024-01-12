@@ -3,14 +3,14 @@
 
 ### AI powered mouse which moves along with the movement of index finger and also clicks when index and middle fingers are brought together.
 
-### Here are  the libraries or modules used in the video:
+### Here are  the libraries or modules used:
 
 - **OpenCV**: an open-source library for computer vision
 - **MediaPipe**: an open-source framework for building multimedia processing pipelines
 - **AutoPy**: a Python library for automating mouse and keyboard actions
 
 
-### Here are the steps involved in creating an the virtual mouse using OpenCV, NumPy, MediaPipe, and autopy:
+### Here are the steps involved in creating the virtual mouse using OpenCV, NumPy, MediaPipe, and autopy:
 
 - Find the hand landmarks.
 - Get the tip of the index and middle fingers.
